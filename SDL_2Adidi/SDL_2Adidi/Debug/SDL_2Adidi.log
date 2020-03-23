@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\GusAF\Desktop\SDL_2Adidi\SDL_2Adidi\Main.cpp(309,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\GusAF\Desktop\SDL_2Adidi\SDL_2Adidi\Main.cpp(309,26): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\GusAF\Desktop\SDL_2Adidi\SDL_2Adidi\Main.cpp(309,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\GusAF\Desktop\SDL_2Adidi\SDL_2Adidi\Main.cpp(309,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  SDL_2Adidi.vcxproj -> C:\Users\GusAF\Desktop\SDL_2Adidi\Debug\SDL_2Adidi.exe
